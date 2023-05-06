@@ -23,4 +23,6 @@ class Circle(object):
     color = 'red'
     Redcircle = circle(1,'red')
     Redcircle.drawCircle() #This is the drawing code
+    
+    #Please see the final result in the file called 'Redcircle - Class Function'
 
